@@ -1,4 +1,4 @@
-package io.github.julioamorim
+package io.github.julioamorim.repository
 
 import io.github.julioamorim.domain.User
 import io.micronaut.data.repository.CrudRepository
