@@ -32,6 +32,7 @@ class UserServiceImplementation : UserService {
         }
     }
 
+
     override fun delete(userId: Long, response: Response<UserDTO>) {
         userRepository.deleteById(userId)
     }
