@@ -1,5 +1,7 @@
 package io.github.julioamorim.model
 
+import io.github.julioamorim.domain.User
+
 data class UserDTO(
     var name: String? = null,
     var email: String? = null,

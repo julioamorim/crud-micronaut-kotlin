@@ -1,4 +1,4 @@
-package io.github.julioamorim.model
+package io.github.julioamorim.domain
 
 import javax.persistence.*
 
